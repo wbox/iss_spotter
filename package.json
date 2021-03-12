@@ -1,0 +1,24 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbox/iss_spotter.git"
+  },
+  "author": "Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbox/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/wbox/iss_spotter#readme",
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1",
+    "request": "^2.88.2"
+  }
+}
