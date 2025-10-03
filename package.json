@@ -18,7 +18,7 @@
   "homepage": "https://github.com/wbox/iss_spotter#readme",
   "devDependencies": {
     "chai": "^4.3.3",
-    "mocha": "^8.3.1",
+    "mocha": "^11.0.0",
     "request": "^2.88.2"
   },
   "dependencies": {
